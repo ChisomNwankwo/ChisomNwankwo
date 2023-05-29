@@ -17,8 +17,8 @@
 
 
 ### :woman_technologist: About Me :
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I am a budding Data Analyst.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I am a budding Data Scientist.
 
 - :seedling: Exploring Technical Content Writing.
 
